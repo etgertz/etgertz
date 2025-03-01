@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I am a second-year computer science student studying at Brandon University.
+
+I am eager to get a start in software development, as well as pursue my passion of game development in my free time. 
+
+When I'm not working on programming I love exploring the natural beauty of the outdoors.
 <!--
 **etgertz/etgertz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
